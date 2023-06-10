@@ -6,6 +6,6 @@ Third project of [this challenge](https://github.com/Rekuiem84/personal-challeng
 
 - A fullscreen navbar with awesome looking hover animation.
 
-## Note
+### Note
 
 - No JavaScript
